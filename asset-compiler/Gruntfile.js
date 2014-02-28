@@ -60,7 +60,7 @@ module.exports = function(grunt) {
       }
     },
 
-    'ghost_location': '../../Ghost/',
+    'ghost_location': '/home/patrick/code/ghost-0.4.1/',
     'ghost_theme_name': 'magnum',
 
   });
